@@ -18,16 +18,53 @@
     .nav-header-web{
       display: none;
     }
+    .w80 {
+      width: 80%;
+    }
+    .img-negocio{
+      display: none;
+    }  
   
   }
   
   @media screen and (min-width:835px){
   .nav-responsiv-mobile{
     display: none;
-    
   }
+
+
+
   }
   /* menu fin */
+
+  
+/* inicio contacto */
+  @media screen and (max-width:916px){
+    .w-r-auto {
+        width: auto;
+    }
+    .contacto_parrafo{
+      font-size: 12px;
+      width: 80%;
+    }
+    }
+
+    .max-w{
+      min-width: 215px;
+      max-width: 400px;
+    }
+/* fin contacto */
+
+
+
+
+
+
+
+
+
+
+
   /* footer */
   .w-redes{
     height: 50px;
