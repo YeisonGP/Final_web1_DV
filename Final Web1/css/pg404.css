@@ -34,7 +34,8 @@
     height: 50px;
   }
   .img-afip{
-    width: 150px;
+    width: 200px;
+    min-width: 100px;
   }
   .enlace-text{
     font-size: 24px;
