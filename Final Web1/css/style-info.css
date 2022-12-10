@@ -53,6 +53,9 @@
       min-width: 215px;
       max-width: 400px;
     }
+    .ihden{
+      overflow: hidden;
+    }
 /* fin contacto */
 
 

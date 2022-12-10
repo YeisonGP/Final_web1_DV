@@ -205,6 +205,12 @@ max-height: 247px;
     display: none;
 }
 }
+
+.max-h{
+ max-width: 100% ;
+ margin-top: auto;
+margin-bottom: auto;
+}
 /* card fin */
 
   /* footer */
